@@ -80,8 +80,9 @@ module.exports = {
       },
     },
     fontFamily: {
+      dysonfutura: ['dyson-futura', 'sans-serif'],
       sans: ['Graphik', 'sans-serif'],
-      serif: ['Merriweather', 'serif'],
+      serif: ['Merriweather', 'serif']
     },
     extend: {
       spacing: {
